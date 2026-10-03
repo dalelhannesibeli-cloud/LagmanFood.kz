@@ -1,0 +1,6 @@
+{
+  "name": "Lagman Food",
+  "description": "Lagman Food (LF) - Premium modern restaurant website featuring authentic handcrafted lagman, online reservations, dining catalog, seamless checkout, and customer reviews.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
